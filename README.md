@@ -8,4 +8,6 @@ https://twitch-nextjs-tailwind.vercel.app/
 🏆 Lazy loading images with the Image component
 🏆 Statically imported images & external URL loaded images
 🏆 Routing in Next.js
+
+##
 Twitch is an video streaming service that focuses on video game live streaming, including broadcasts of esports competitions, in addition to offering music broadcasts, creative content, and "in real life" streams.
