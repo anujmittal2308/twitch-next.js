@@ -11,3 +11,6 @@ https://twitch-nextjs-tailwind.vercel.app/
 
 ##
 Twitch is an video streaming service that focuses on video game live streaming, including broadcasts of esports competitions, in addition to offering music broadcasts, creative content, and "in real life" streams.
+
+![image](https://user-images.githubusercontent.com/84795217/180597550-c7a0f42d-872c-4e33-b0b6-bcf123c53c3c.png)
+ ![image](https://user-images.githubusercontent.com/84795217/180597559-24901261-2f91-4e24-aed6-de1992904820.png)
